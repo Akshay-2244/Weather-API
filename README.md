@@ -20,5 +20,5 @@ A responsive web application that allows users to get real-time weather informat
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 - OpenWeatherMap API
