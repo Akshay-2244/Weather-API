@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecast App
+# 🌦️ Weather Forecast Web
 
 A responsive web application that allows users to get real-time weather information by entering a city name. The web fetches data from the OpenWeatherMap API and displays the temperature, humidity, weather condition, and an emoji for visual representation.
 
