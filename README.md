@@ -24,18 +24,19 @@ A responsive web application that allows users to get real-time weather informat
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Screenshot
 <img width="704" height="813" alt="WeatherAPI(ScreenShot)" src="https://github.com/user-attachments/assets/a154c613-4e99-49cf-a562-cdb66b77e53b" />
 
 ---
 
 ## 📁 Folder Structure
-WeatherAPI/
+
+weather-forecast-web-app/
 │
 ├── Weather.html        # Main HTML file
 ├── style.css           # Styling for layout and visuals
 ├── script.js           # Main logic: fetch and render weather
-├── README.md
-└── Images/          
+├── Images/ 
+└── README.md        
 
 ---
