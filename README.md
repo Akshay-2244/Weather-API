@@ -22,3 +22,11 @@ A responsive web application that allows users to get real-time weather informat
 - CSS
 - JavaScript 
 - OpenWeatherMap API
+
+weather-forecast-web-app/
+│
+├── index.html        # Main HTML file
+├── styles.css        # Styling for layout and visuals
+├── app.js            # Main logic: fetch and render weather
+├── README.md
+└── assets/           # Any design assets (optional)
