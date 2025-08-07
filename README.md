@@ -2,6 +2,8 @@
 
 A responsive web application that allows users to get real-time weather information by entering a city name. The web fetches data from the OpenWeatherMap API and displays the temperature, humidity, weather condition, and an emoji for visual representation.
 
+---
+
 ## 🚀 Features
 
 - 🔍 Search for any city’s current weather
@@ -11,10 +13,7 @@ A responsive web application that allows users to get real-time weather informat
 - 🔄 Simple and responsive UI
 - 📦 Uses OpenWeatherMap API
 
-## 🖼️ Preview
-<img width="704" height="813" alt="WeatherAPI(ScreenShot)" src="https://github.com/user-attachments/assets/a154c613-4e99-49cf-a562-cdb66b77e53b" />
-
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -23,10 +22,20 @@ A responsive web application that allows users to get real-time weather informat
 - JavaScript 
 - OpenWeatherMap API
 
-weather-forecast-web-app/
+---
+
+## 🖼️ Preview
+<img width="704" height="813" alt="WeatherAPI(ScreenShot)" src="https://github.com/user-attachments/assets/a154c613-4e99-49cf-a562-cdb66b77e53b" />
+
+---
+
+## 📁 Folder Structure
+WeatherAPI/
 │
-├── index.html        # Main HTML file
-├── styles.css        # Styling for layout and visuals
-├── app.js            # Main logic: fetch and render weather
+├── Weather.html        # Main HTML file
+├── style.css           # Styling for layout and visuals
+├── script.js           # Main logic: fetch and render weather
 ├── README.md
-└── assets/           # Any design assets (optional)
+└── Images/          
+
+---
