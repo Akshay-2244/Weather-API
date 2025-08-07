@@ -37,6 +37,7 @@ weather-forecast-web-app/
 ├── style.css           # Styling for layout and visuals
 ├── script.js           # Main logic: fetch and render weather
 ├── Images/ 
+│ └── Weather Icon.png
 └── README.md        
 
 ---
